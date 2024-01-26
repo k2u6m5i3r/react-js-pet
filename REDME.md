@@ -1,7 +1,5 @@
-# use create-react-app
+# TODO-v1
  I use create-react-app in pet projects. my stack is Material UI, uuid, moment.
-  1 go to the folder 'todo-v1'. 
- 2 run the command 'npm install'
  deploy
  ![image ](/todo-v1/deploy-img/image-1.png)
  
