@@ -1,5 +1,8 @@
 # use create-react-apple
- I use create-react-apple in pet projects
+ I use create-react-apple in pet projects. my stack is Material UI, uuid, moment.
+ deploy
+ ![image ](/deploy-img/image-1.png)
+ 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
